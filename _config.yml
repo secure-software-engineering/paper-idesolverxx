@@ -22,13 +22,14 @@ title: "Scaling Interprocedural Static Data-Flow Analysis to Large C/C++ Applica
 email: fabian.schiebel@iem.fraunhofer.de
 description: >- # this means to ignore newlines until "baseurl:"
   Supplementary website for the paper "Scaling Interprocedural Static Data-Flow Analysis to Large C/C++ Applications: An Experience Report"
-baseurl: "/paper-idesolverxx/" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/paper-idesolverxx" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  secure-software-engineering
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
 #   - jekyll-feed
 
