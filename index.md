@@ -10,7 +10,7 @@ This website provides the appendix and other supplementary data for the paper "S
 
 The paper analyzes performance bottlenecks of the *Interprocedural Distributive Environments* (IDE) algorithm and proposes two optimizations to improve runtime and memory consumption of IDE analyses: 
 - Improved memory-layouts of the internal data structures of the IDE solver and
-- extensions to a garbage collection mechanism for the IDE solver internal data.
+- Extensions to a garbage collection mechanism for the IDE solver internal data.
 
 The paper contains a thorough empirical study to assess the concrete performance implications of our proposed optimizations, when analyzing real-world C and C++ software.
 
