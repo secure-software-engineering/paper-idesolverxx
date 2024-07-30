@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Appendix A
+title: IDE Algorithm
 ---
 
 # Original IDE Algorithm
