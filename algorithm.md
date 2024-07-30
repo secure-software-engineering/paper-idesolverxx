@@ -36,4 +36,4 @@ The *PropagateValue* procedure from the original IDE algorithm [[20]](#reference
 
 ## References
 
-[20] Mooly Sagiv, Thomas Reps, and Susan Horwitz. Precise Interprocedural Dataflow Analysis with Applications to Constant Propagation. Theor. Comput. Sci., 167(1-2):131–170, 1996.3
+[20] Mooly Sagiv, Thomas Reps, and Susan Horwitz. Precise Interprocedural Dataflow Analysis with Applications to Constant Propagation. Theor. Comput. Sci., 167(1-2):131–170, 1996.
